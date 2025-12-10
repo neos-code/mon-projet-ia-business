@@ -1,1 +1,2 @@
-# mon-projet-ia-business
+# Projet IA Business
+Bienvenu !
